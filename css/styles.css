@@ -26,6 +26,49 @@
   bottom: -10px;
 }
 
+p{
+
+  font-family: 'Open Sans', sans-serif;
+  color:black;
+  font-size: 120%;
+}
+
+#des-what-you-want{
+  font-size: 200%;
+  color: #45b29a;
+  position: relative;
+  right: -800px;
+  top: -375px;
+}
+
+#dev-what-you-need{
+  font-size: 200%;
+  color: #45b29a;
+  position: relative;
+  top: -230px;
+  right: -330px;
+}
+
+#what-i-can-do-sec-img{
+
+  position: relative;
+  right: -1020px;
+  top: -400px;
+}
+
+
+#p-what-i-can-do{
+  position: relative;
+  right: -800px;
+  top: -150px;
+
+}
+
+#p2-what-i-can-do{
+    position: relative;
+    top: -235px;
+    right: -330px;
+}
 
 body{
   margin: 0;
@@ -34,12 +77,26 @@ body{
 
 hr{
   border-style: dotted none none none;
-  border-width: 5px;
-  width: 7%;
+  border-width: 7px;
+  width: 5%;
   color: grey;
   opacity: 0.5;
 }
 
+#what-i-can-do{
+  text-align: center;
+  font-size: 60px;
+}
+
+#What-i-can-do-img{
+  position: relative;
+  right: -330px;
+}
+
+h2{
+  font-size: 200%;
+  color: #45b29a;
+}
 
 .top-container{
   background-color: #E4F9F5;
@@ -86,16 +143,71 @@ hr{
 
 }
 
+.bottom-container img{
+  height: 200px;
+  width: 200px;
+
+}
+
+.email-button input{
+  width: 250px;
+  height: 60px;
+  padding: 0.75em 2em 0.75em 3.5em;
+  background-color: #45b29a;
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  border-radius: 3px;
+  border: none;
+  font-size: 120%;
+
+}
+
+.email-button input:hover{
+  transition: 0.3s ease-out;
+  background-color: #1b7f69;
+  cursor: pointer;
+}
+
+#mail-image{
+  height: 35px;
+  width: 40px;
+  position: relative;
+  left: -80px;
+  top: -46px;
+}
+
+.footer-container{
+  text-align: center;
+  position: relative;
+  top: -150px;
+}
+
+.footer-container h2{
+    font-size: 60px;
+}
+
+.footer-container h3{
+    font-size: 200%;
+    color: #45b29a;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.real-footer{
+  height: 150px;
+  background-color: #E4F9F5;
+
+}
+
+.real-footer p{
+  text-align: center;
+  position: relative;
+  bottom: -70px;
+}
 
 h1{
   margin: 0;
   font-family: 'Satisfy', cursive;
   font-size: 60px;
-  color: #45b29a;
-}
-
-
-p{
-  font-family: cursive;
   color: #45b29a;
 }

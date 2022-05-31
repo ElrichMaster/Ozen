@@ -46,20 +46,21 @@ p{
   color: #45b29a;
   position: relative;
   top: -230px;
-  right: -330px;
+  right: -500px;
 }
 
 #what-i-can-do-sec-img{
 
   position: relative;
-  right: -1020px;
-  top: -400px;
+  right: -1000px;
+  top: -430px;
 }
 
 
 #p-what-i-can-do{
   position: relative;
   right: -800px;
+  width: 500px;
   top: -150px;
 
 }
@@ -67,7 +68,8 @@ p{
 #p2-what-i-can-do{
     position: relative;
     top: -235px;
-    right: -330px;
+    right: -500px;
+    width: 600px;
 }
 
 body{
@@ -90,7 +92,8 @@ hr{
 
 #What-i-can-do-img{
   position: relative;
-  right: -330px;
+  right: -450px;
+  width: 300px;
 }
 
 h2{
@@ -122,6 +125,16 @@ h2{
   width: 100%;
 }
 
+
+span a{
+  text-decoration: none;
+ color: #45b29a;
+}
+
+span a:hover{
+  transition: 0.3s ease-out;
+  color: black;
+}
 
 .middle-container{
   text-align: center;

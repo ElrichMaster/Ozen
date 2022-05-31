@@ -1,7 +1,6 @@
 
 .nav-pannel{
-  background-color: #E4F9F5;
-  color: #45b29a;
+  background-color: #FFD24C;
   font-family: cursive;
   height: 90px;
 }
@@ -10,7 +9,8 @@
   position: relative;
   font-size: 120%;
   top: -10px;
-  right: -900px;
+  right: -1100px;
+  color: #36AE7C;
 }
 .nav-pannel span:hover{
     transition: 0.3s ease-out;
@@ -35,7 +35,7 @@ p{
 
 #des-what-you-want{
   font-size: 200%;
-  color: #45b29a;
+  color: #F66B0E;
   position: relative;
   right: -800px;
   top: -375px;
@@ -43,7 +43,7 @@ p{
 
 #dev-what-you-need{
   font-size: 200%;
-  color: #45b29a;
+  color:#F66B0E;
   position: relative;
   top: -230px;
   right: -500px;
@@ -98,11 +98,11 @@ hr{
 
 h2{
   font-size: 200%;
-  color: #45b29a;
+  color:#F66B0E;
 }
 
 .top-container{
-  background-color: #E4F9F5;
+  background-color:  #FFD24C;
   text-align: center;
   height: 1280px;
 }
@@ -128,7 +128,7 @@ h2{
 
 span a{
   text-decoration: none;
- color: #45b29a;
+ color: #36AE7C;
 }
 
 span a:hover{
@@ -143,7 +143,7 @@ span a:hover{
 
 .middle-container h3{
   font-size: 200%;
-  color: #45b29a;
+  color: #F66B0E;
 }
 .middle-container p{
   color: black;
@@ -166,7 +166,7 @@ span a:hover{
   width: 250px;
   height: 60px;
   padding: 0.75em 2em 0.75em 3.5em;
-  background-color: #45b29a;
+  background-color: #FFD24C;
   font-family: 'Open Sans', sans-serif;
   color: black;
   border-radius: 3px;
@@ -177,7 +177,7 @@ span a:hover{
 
 .email-button input:hover{
   transition: 0.3s ease-out;
-  background-color: #1b7f69;
+  background-color: #F66B0E;
   cursor: pointer;
 }
 
@@ -201,14 +201,14 @@ span a:hover{
 
 .footer-container h3{
     font-size: 200%;
-    color: #45b29a;
+    color: #F66B0E;
     font-family: 'Open Sans', sans-serif;
 }
 
 
 .real-footer{
   height: 150px;
-  background-color: #E4F9F5;
+  background-color: #FFD24C;
 
 }
 
@@ -222,5 +222,5 @@ h1{
   margin: 0;
   font-family: 'Satisfy', cursive;
   font-size: 60px;
-  color: #45b29a;
+  color: #36AE7C;
 }

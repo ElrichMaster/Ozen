@@ -100,7 +100,7 @@ p{
   }
 }
 
-@media (max-width: 1080px){
+@media (max-width: 950px){
 
   #title{
     text-align: center;
@@ -113,13 +113,22 @@ p{
   }
   .container-fluid{
     position: static;
-    height: 1200px;
+    padding-bottom: 5.5rem;
   }
 
   #features{
     background-color: none;
     position: static;
     z-index: 0;
+  }
+
+  p{
+    font-size: 150%;
+  }
+
+  .footer-logo{
+    height: 20px;
+    width: 20px;
   }
 }
 
